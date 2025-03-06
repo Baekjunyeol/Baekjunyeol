@@ -2,11 +2,6 @@
 <!-- Image -->
 <img src="https://github.com/user-attachments/assets/95464763-bafa-4613-b73a-db782b0e18ad" width="300">
 
-
-<!---
-Baekjunyeol/Baekjunyeol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <!-- Heading -->
 ## 🚀 기술 스택
 
