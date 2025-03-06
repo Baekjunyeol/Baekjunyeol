@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 <!-- Heading -->
 ## 🛠 주요 기능
 - 사용자 로그인 및 회원가입
->인용구 넣을떄
+>데이터가 날라갔다고? 다시 업로드 하면 된다. 나는 이것을 매우 좋아한다.
 # Heding 1 
 ## Heading 2
 Paragraph
