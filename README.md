@@ -72,3 +72,111 @@
 
 📢 **더 많은 프로젝트를 확인하려면?** 👉 [https://github.com/Baekjunyeol]
 
+
+<h1 align="center">안녕하세요, 백준열입니다 👋</h1>
+ 
+<p align="center">
+  <b>Data Engineer · Backend Developer · Android Developer</b><br/>
+  국가 R&D 프로젝트에서 데이터 파이프라인 설계부터 분석 시스템 개발까지 경험한 개발자입니다.
+</p>
+ 
+---
+ 
+## 🛠 Tech Stack
+ 
+**Languages**
+ 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
+ 
+**Backend & Data**
+ 
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+ 
+**Database**
+ 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+ 
+**Mobile**
+ 
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+ 
+**Tools**
+ 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+ 
+---
+ 
+## 🚀 주요 프로젝트
+ 
+### 🚆 철도안전 데이터 수집·분석 시스템 개발 (국가 R&D)
+> **Python · SQL · DB 설계 · 데이터 파이프라인 · 시스템 연계**
+ 
+- 국내외 철도안전 데이터 관리환경 조사 및 핵심 데이터 도출 (1차년도 핵심 항목 100% 달성)
+- 철도사고·운행장애 데이터 정제 및 샘플 DB 구축 (15,547건 대상)
+- 정제 데이터 DB 테이블 구조·인덱스 설계 (사고·시설·차량·인적요인·운영기관 도메인)
+- 수집·연계·전처리 SW 아키텍처 설계 및 핵심기능 개발
+- 사고전조·위험요인 분석 시스템 상세설계 및 구현
+- 디지털 안전체인 예측 시스템과의 연계 모듈 개발 → **4개 컴포넌트 통합 파이프라인 완성**
+ 
+---
+ 
+### 🛒 온라인 쇼핑몰 (Flask 풀스택)
+> **Python · Flask · SQLite3 · HTML/CSS**
+ 
+- Flask 기반 서버 개발 및 RESTful API 구현
+- SQLite3 DB 직접 설계 및 실시간 웹 연동
+ 
+---
+ 
+### 📊 데이터 분석 자동화
+> **Python · Pandas · Matplotlib · SQL**
+ 
+- 대학생 식당 선호도 조사 데이터 분석 자동화 → **행사 준비 기간 5일 단축**
+- 서울시 인구 공공데이터 수집·정제·DB 구축 및 시각화
+ 
+---
+ 
+### 📱 Android 앱 개발
+> **Kotlin · Android Studio**
+ 
+- Android Studio 기반 모바일 앱 개발
+- Kotlin을 활용한 Android 애플리케이션 구현
+ 
+---
+ 
+## 🏅 자격증
+ 
+![ADsP](https://img.shields.io/badge/ADsP-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EC%A4%80%EC%A0%84%EB%AC%B8%EA%B0%80-2025-orange?style=flat-square)
+![SQLD](https://img.shields.io/badge/SQLD-2024-blue?style=flat-square)
+![정보처리기사](https://img.shields.io/badge/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC%20%ED%95%84%EA%B8%B0-2024-green?style=flat-square)
+ 
+---
+ 
+## 📈 GitHub Stats
+ 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Baekjunyeol&show_icons=true&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baekjunyeol&layout=compact&theme=default&hide_border=true" height="150"/>
+</p>
+ 
+---
+ 
+<p align="center">
+  <a href="mailto:jybaek@powermecca.co.kr">
+    <img src="https://img.shields.io/badge/Email-jybaek%40powermecca.co.kr-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+
+
