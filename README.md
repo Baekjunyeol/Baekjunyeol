@@ -1,4 +1,4 @@
-# 안녕하세요!  초급 개발자 백준열입니다! 👋👋👋
+<h1 align="center">안녕하세요, 백준열입니다 👋</h1>
 <!-- Image -->
 <img src="https://github.com/user-attachments/assets/95464763-bafa-4613-b73a-db782b0e18ad" width="300">
 
@@ -72,6 +72,9 @@
 
 📢 **더 많은 프로젝트를 확인하려면?** 👉 [https://github.com/Baekjunyeol]
 
+
+
+Visual Studio Code
 
 <h1 align="center">안녕하세요, 백준열입니다 👋</h1>
  
@@ -157,7 +160,7 @@
  
 ## 🏅 자격증
  
-![ADsP](https://img.shields.io/badge/ADsP-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EC%A4%80%EC%A0%84%EB%AC%B8%EA%B0%80-2025-orange?style=flat-square)
+![ADsP](https://img.shields.io/badge/ADsP-2025-orange?style=flat-square)
 ![SQLD](https://img.shields.io/badge/SQLD-2024-blue?style=flat-square)
 ![정보처리기사](https://img.shields.io/badge/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC%20%ED%95%84%EA%B8%B0-2024-green?style=flat-square)
  
@@ -174,9 +177,6 @@
  
 <p align="center">
   <a href="mailto:jybaek@powermecca.co.kr">
-    <img src="https://img.shields.io/badge/Email-jybaek%40powermecca.co.kr-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-w1126wns@naver.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
-
-
